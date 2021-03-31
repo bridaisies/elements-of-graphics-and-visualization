@@ -1,0 +1,7 @@
+In this assignment, we were asked to implement 4 different filters: no filter, greyscale, contrast, gaussian, and edge detection.
+By pressing the number 0, the program will display the image with no filter.
+By pressing the number 1, the program will display the image with a greyscale filter.
+By pressing the number 2, the program will display the image with a contrast filter.
+By pressing the number 3, the program will display the image with a gaussian blur filter.
+By pressing the number 4, the program will display the image with an edge detection filter.
+By pressing any other key not stated above will result in the program displaying the original image(with no filter).
