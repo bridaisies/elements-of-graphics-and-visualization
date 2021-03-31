@@ -1,0 +1,16 @@
+Description: CS324E Assignment 4
+
+Names: Lavanya Makdani, Alexander Bai, Brionna Huynh, Syed Raza
+
+
+For this assignment, we have a scene of a body of water with various objects in the water. These objects include a fish, seaweed, air bubbles, a clam and starfish. The intended animation is to display what would be a seen if we were to look underwater at a frontal plane view. 
+
+The fish class shows two fishes that horizontally move across the screen while its child class, tail fins, displays the fishes' tails oscillating vertically to emulate the animation of the fishes swimming. 
+
+The seaweed class shows a group of seaweed at the bottom of the body of water that moves horizontally across the screen along with the fish, but at a different speed.
+
+The bubbles class shows a set of air bubbles can be seen moving from the middle of the screen, where the fish breathes, to the surface of the water. Its child class, 'bubbleTrail', shows another set of air bubbles are seen horizontally following closely behind the fish/fishtail object that is swimming. 
+
+There is also a sea clam class on the sea floor that is opening and closing. The two objects are the top half of the clam opening and the pearl inside rotating.
+
+Three starfish have been added, they fall to the ocean floor at different intervals.
