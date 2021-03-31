@@ -1,0 +1,30 @@
+Description: CS324E Assignment 3
+
+Names: Lavanya Makdani, Alexander Bai, Brionna Huynh
+
+
+Description for extract_words.py:
+
+The python script is written to generate the three text files when run.  The 'allwords.txt', 'uniquewords.txt', and 'wordfrequency.txt' will be generated in the folder the python script is in, which will allow the Processing files to utilize them.  
+
+
+
+Description for a3_novelvisualization.pde:
+
+Processing software must be installed for program to open and work.
+When run, a display of words will be shown, where these words being one of three colors:  red, green, or beige.
+	-words will be displayed as red when that word has less than or equal to 6 letters.
+	-words will be displayed as green when that word has the greater than 6 letters and less than 9 letters
+	-all other words will be displayed as beige
+By pressing a mouse key it will display another set of randomly selected words, with their corresponding colors.
+These colors were chosen out of personal preference, I thought that they looked nice together.
+Font size was chosen due to it being a good readable size, without being too large or small.
+Time New Roman was chosen as it’s an easy and simple to read font.
+
+
+
+Description for a3_wordfrequency.pde and homersodyssey_wordcloud.png: 
+
+The world cloud image generated (homersodyssey_wordcloud.png) is meant to look like a castle against the sky as the book is about a king. 
+
+For a3_wordfrequency.pde, I decided to make a bar graph in order to represent word frequency, the height of each bar represents the amount of words for that frequency and frequency increases by 1 as you go left to right. I also adjusted the bar sizes to be relative to each other in order to show a comparison between the word frequencies and how drastically they change. 
