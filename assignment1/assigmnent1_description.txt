@@ -1,0 +1,8 @@
+When working on this assignment, I didn't really have anything in mind that I wanted to create. It kind of just started by picking a color palette that I find aesthetically
+pleasing. From there I just kind of experimented and added things that I liked. It was about halfway through when I decided that I wanted to create an image that could
+possibly represent an album cover, or a design that I could use if I ever decided to start streaming. 
+
+I used multiple different geometric shapes such as squares, rectangles, triangles, quadrilaterals and lines to help me create this image. I also layered many of the shapes
+and colors so that they overlapped eachother. Since I didn't use any round shapes, when overlapping the shapes I did use, it was interesting to see how more shapes were
+being created. For example, if I put a rectangle over a shape I had already created, it could potentially create another rectangle or a triangle depending on the location
+and stroke.  
